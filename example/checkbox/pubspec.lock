@@ -67,19 +67,17 @@ packages:
   flare_dart:
     dependency: transitive
     description:
-      path: flare_dart
-      ref: dev
-      resolved-ref: "393c22461e127714a3a25c986bb59a666cba72ac"
-      url: "git://github.com/2d-inc/Flare-Flutter.git"
-    source: git
-    version: "2.3.0"
+      name: flare_dart
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.3.2"
   flare_flutter:
     dependency: "direct main"
     description:
       path: "../../flare_flutter"
       relative: true
     source: path
-    version: "1.8.0"
+    version: "1.8.3"
   flutter:
     dependency: "direct main"
     description: flutter
